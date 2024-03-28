@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loftis Quote Tool_Overlay Test", "Loftis Quote Tool_Overlay Test\Loftis Quote Tool_Overlay Test.csproj", "{1D912D92-92AE-43C1-B0C2-7EC66FA98876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D912D92-92AE-43C1-B0C2-7EC66FA98876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D912D92-92AE-43C1-B0C2-7EC66FA98876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D912D92-92AE-43C1-B0C2-7EC66FA98876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D912D92-92AE-43C1-B0C2-7EC66FA98876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D123E3D-47D0-402E-85C2-BC1FB79805C0}
+	EndGlobalSection
+EndGlobal
